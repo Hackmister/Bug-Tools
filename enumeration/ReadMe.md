@@ -1,5 +1,5 @@
 # Asset Finder
-Asset Finder is a nice tool made by tomnomnom, not by myself. The reason I put it here is that this is actually a tool that I prefer when it comes to subdomain fuzzing. To use it for subdomain fuzzing, look below.
+Asset Finder is a nice tool made by tomnomnom, not by myself. The reason I put it here is that this is actually a tool that I prefer when it comes to subdomain fuzzing. To use it for subdomain fuzzing, look below. Tool is hosted here: https://github.com/tomnomnom/assetfinder
 <br>
 <br>
 **use: ./assetfinder url --subs-only**
